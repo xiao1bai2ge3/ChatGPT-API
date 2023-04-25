@@ -193,7 +193,7 @@ export default function Home() {
       <div className={styles.container}>
         <header className={styles.header}>
           <h1 className={styles.h1}>ChatGPTAPI</h1>
-          <p style={{ color: latencyColor }}>余额查询</p>
+          <p style={styles.h1}>余额查询</p>
         </header>
         <main className={styles.main}>
 
